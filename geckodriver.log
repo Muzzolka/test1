@@ -1,0 +1,52 @@
+1512432628849	geckodriver	INFO	geckodriver 0.19.1
+1512432628984	geckodriver	INFO	Listening on 127.0.0.1:43269
+1512432631789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CUwgDumL9gl6"
+1512432645352	Marionette	INFO	Enabled via --marionette
+1512432668741	Marionette	INFO	Listening on port 34543
+1512432669177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512432670127	Marionette	DEBUG	Register listener.js for window 2147483649
+1512432672386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512432674105	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512432674108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512432678903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432680309	Marionette	DEBUG	Received DOM event "pageshow" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432681732	Marionette	DEBUG	Received DOM event "beforeunload" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432683729	Marionette	DEBUG	Received DOM event "pagehide" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432683732	Marionette	DEBUG	Received DOM event "unload" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512432685231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://diabcontrol1.herokuapp.com/"
+1512432685300	Marionette	DEBUG	Received DOM event "pageshow" for "https://diabcontrol1.herokuapp.com/"
+1512432685690	Marionette	DEBUG	Received DOM event "beforeunload" for "https://diabcontrol1.herokuapp.com/"
+1512432686152	Marionette	DEBUG	Received DOM event "pagehide" for "https://diabcontrol1.herokuapp.com/"
+1512432686153	Marionette	DEBUG	Received DOM event "unload" for "https://diabcontrol1.herokuapp.com/"
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512432687537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://diabcontrol1.herokuapp.com/patients/index/"
+1512432687619	Marionette	DEBUG	Received DOM event "pageshow" for "https://diabcontrol1.herokuapp.com/patients/index/"
+1512432708615	geckodriver	INFO	geckodriver 0.19.1
+1512432708656	geckodriver	INFO	Listening on 127.0.0.1:48869
+1512432712744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wrpJSrZ9ZIxE"
+1512432731360	Marionette	INFO	Enabled via --marionette
+1512432753378	Marionette	INFO	Listening on port 43493
+1512432753726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512432754392	Marionette	DEBUG	Register listener.js for window 2147483649
+1512432755364	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512432756547	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512432756550	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512432760767	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432761113	Marionette	DEBUG	Received DOM event "pageshow" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432764050	Marionette	DEBUG	Received DOM event "beforeunload" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432764648	Marionette	DEBUG	Received DOM event "pagehide" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+1512432764658	Marionette	DEBUG	Received DOM event "unload" for "https://diabcontrol1.herokuapp.com/accounts/login/?next=/"
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512432766063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://diabcontrol1.herokuapp.com/"
+1512432766096	Marionette	DEBUG	Received DOM event "pageshow" for "https://diabcontrol1.herokuapp.com/"
+1512432766765	Marionette	DEBUG	Received DOM event "beforeunload" for "https://diabcontrol1.herokuapp.com/"
+1512432767240	Marionette	DEBUG	Received DOM event "pagehide" for "https://diabcontrol1.herokuapp.com/"
+1512432767260	Marionette	DEBUG	Received DOM event "unload" for "https://diabcontrol1.herokuapp.com/"
+JavaScript warning: https://code.jquery.com/jquery-1.10.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1512432768815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://diabcontrol1.herokuapp.com/patients/index/"
+1512432768850	Marionette	DEBUG	Received DOM event "pageshow" for "https://diabcontrol1.herokuapp.com/patients/index/"
+1512432780640	Marionette	DEBUG	Register listener.js for window 4294967297
+1512432781063	Marionette	DEBUG	Register listener.js for window 4294967299
